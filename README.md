@@ -2,7 +2,7 @@
 
 This repo is a simple web app that runs inside a Docker container, Docker allows you to run programs in an environments such that it runs the same on every computer. This app is built with Flask(python framework), the data is stored in a pstgres database and we use Nginx on the production level to handle incoming web requests.this app allows you to upload images and files and view them in your browser. 
 
-[Demo](big_data_video.gif) 
+![Demo](big_data_video.gif) 
 
 #build instructions 
 
